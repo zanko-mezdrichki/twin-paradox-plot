@@ -1,3 +1,5 @@
+#TWIN PARADOX CHART: SIGNAL EXCHANGE PATTERN
+
 This repository hosts the Python script used to generate the Spacetime Diagram which illustrates the resolution of the famous Twin Paradox through the analysis of signal exchange.
 
 The resulting graph (graphic.png) is directly linked to Section II. C. (Analysis 2) of the paper "Resolving the Apparent Paradoxes of Special Relativity."
