@@ -1,4 +1,4 @@
-# TWIN PARADOX CHART: SIGNAL EXCHANGE PATTERN
+# TWIN PARADOX PLOT: SIGNAL EXCHANGE PATTERN
 
 This repository hosts the Python script used to generate the Spacetime Diagram which illustrates the resolution of the famous Twin Paradox through the analysis of signal exchange.
 
