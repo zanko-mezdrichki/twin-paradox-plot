@@ -36,9 +36,9 @@ This will save the updated diagram as graphic.png in the same directory.
 
 - Python 3.12.11
 
--NumPy - for data management
+- NumPy - for data management
 
--Matplotlib - for charts and animations
+- Matplotlib - for charts and animations
 
 # LICENSE
 
